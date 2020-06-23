@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+chmod +x *
+mkdir ~/.cf_gen
+cp *.py *.cpp ~/.cf_gen
+sudo cp gen /usr/bin/
