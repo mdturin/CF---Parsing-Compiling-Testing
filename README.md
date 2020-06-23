@@ -3,7 +3,7 @@ A tool that helps and saves your time to generate all your cf problems with your
 
 # LINUX
 # prerequisite:
-    ```
+
     [ installing python 3 ]
     sudo apt-get install python3.8 
     
@@ -13,4 +13,4 @@ A tool that helps and saves your time to generate all your cf problems with your
     [ python necessary tools ]
     pip3 install requests
     pip3 install BeautifulSoup4
-    ```
+
