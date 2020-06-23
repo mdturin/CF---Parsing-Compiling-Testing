@@ -15,4 +15,4 @@ A tool that helps and saves your time to generate all your cf problems with your
     pip3 install BeautifulSoup4
 
 # full project in a second:
-    ![project_gif](/gif/project.gif)
+    ![project_gif](https://github.com/turin1602101/CF---Input-Output-Parsing/blob/master/gif/project.gif)
