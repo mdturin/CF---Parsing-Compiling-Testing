@@ -14,3 +14,5 @@ A tool that helps and saves your time to generate all your cf problems with your
     pip3 install requests
     pip3 install BeautifulSoup4
 
+# full project in a second:
+    ![project_gif](/gif/project.gif)
