@@ -17,6 +17,13 @@ A tool that helps and saves your time to generate all your cf problems with your
 # Download:
     [ downloading cf-input-output-parsing-tool ]
     git clone https://github.com/turin1602101/CF---Input-Output-Parsing.git
+    
+# Setup:
+    [change current directory to download directory]
+    cd CF---Input-Output-Parsing/
+    chmod +x *
 
-# Full Project In a Minute:
-    ![](project.gif)
+    [ make necessary directory and copy all ]
+    mkdir /home/psy__cho/.cf_gen
+    cp *.py *.cpp *.sh /home/psy__cho/.cf_gen
+     
