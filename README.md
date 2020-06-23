@@ -24,5 +24,13 @@ A tool that helps and saves your time to generate all your cf problems with your
     ./run
 
 # How to Use:
-    
-     
+    For parsing all cf contest input output:
+    gen -p [contest link]
+    Example :
+        gen -p https://codeforces.com/contest/1369
+        
+    For Compiling & Testing:
+    gen -c [any generated file name]
+    Example :
+        gen -c A
+        gen -c F
