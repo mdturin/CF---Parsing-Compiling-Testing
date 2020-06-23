@@ -21,9 +21,8 @@ A tool that helps and saves your time to generate all your cf problems with your
 # Setup:
     [change current directory to download directory]
     cd CF---Input-Output-Parsing/
-    chmod +x *
+    ./run
 
-    [ make necessary directory and copy all ]
-    mkdir /home/psy__cho/.cf_gen
-    cp *.py *.cpp *.sh /home/psy__cho/.cf_gen
+# How to Use:
+    
      
